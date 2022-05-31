@@ -1,4 +1,10 @@
 # CTRL - A Conditional Transformer Language Model for Controllable Generation
+
+### For a guide how to use & Where to load the model, visit this [link](https://nuttanon211211.github.io/guide/how_to_generate_horoscope_text_using_ctrl_model.html)
+
+## 
+
+
 Authors: [Nitish Shirish Keskar](http://keskarnitish.github.io), [Bryan McCann](https://bmccann.github.io/), [Lav Varshney](http://www.varshney.csl.illinois.edu/), [Caiming Xiong](http://www.stat.ucla.edu/~caiming/), and [Richard Socher](https://www.socher.org/)
 
 ![](ctrl.gif)
