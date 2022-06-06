@@ -1,6 +1,6 @@
 # CTRL - A Conditional Transformer Language Model for Controllable Generation
 
-### For a guide how to use & Where to load the model, visit this [link](https://nuttanon211211.github.io/guide/how_to_generate_horoscope_text_using_ctrl_model.html)
+### For a guide how to use & Where to download the model, visit this [link](https://nuttanon211211.github.io/guide/how_to_generate_horoscope_text_using_ctrl_model.html)
 
 ## 
 
